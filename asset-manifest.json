@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/expedia-about_us/static/css/main.8bcf74fc.css",
+    "main.js": "/expedia-about_us/static/js/main.f0b7399e.js",
+    "static/media/main-image-about-us-2.jpg": "/expedia-about_us/static/media/main-image-about-us-2.92be35d4c4ba1c3401b0.jpg",
+    "index.html": "/expedia-about_us/index.html",
+    "static/media/black-dot.svg": "/expedia-about_us/static/media/black-dot.575d90d7111c1185011b.svg",
+    "static/media/gray-dot.svg": "/expedia-about_us/static/media/gray-dot.19c769d56b260131347f.svg",
+    "main.8bcf74fc.css.map": "/expedia-about_us/static/css/main.8bcf74fc.css.map",
+    "main.f0b7399e.js.map": "/expedia-about_us/static/js/main.f0b7399e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bcf74fc.css",
+    "static/js/main.f0b7399e.js"
+  ]
+}
